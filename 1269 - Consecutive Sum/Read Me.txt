@@ -1,0 +1,9 @@
+Interesting Problem 
+
+Algorithm Needed = Trie
+
+Knowledge Needed - 
+
+For Ranged XOR 
+
+xor(1-6) ^xor(1-10) = xor(7-10) 
