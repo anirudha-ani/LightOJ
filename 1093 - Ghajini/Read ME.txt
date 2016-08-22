@@ -1,0 +1,5 @@
+Statement = http://lightoj.com/volume_showproblem.php?problem=1093
+
+Method Needed - Sliding Range Minimum Query 
+
+Resource Link - http://www.shafaetsplanet.com/planetcoding/?p=2316
