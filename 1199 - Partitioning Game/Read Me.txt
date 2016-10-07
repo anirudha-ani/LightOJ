@@ -1,0 +1,10 @@
+Problem link - http://lightoj.com/volume_showproblem.php?problem=1199
+
+Algorithm - Sprague-Grundy Number
+
+Technique - 
+
+Used a n^2 DP to pre calculate Sprague-Grundy Number for 0 - 10000
+then xor the given value . According to NIM Game 
+If XOR result == 0 Alice will Loose 
+Otherwise Bob will loose
