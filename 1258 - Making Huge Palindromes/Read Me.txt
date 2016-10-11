@@ -1,0 +1,12 @@
+Problem Link - http://lightoj.com/volume_showproblem.php?problem=1258
+
+Algorithm Used - KMP 
+
+Solving Technique - I inverted the string and build a new String like this
+
+newString = <inverted string> <"#"> <main string>
+
+If we run KMP on this in the last index it will save the number
+which indicates what is the highest length of prefix of the inverted string
+that match with the suffix with the original string
+basically that length we don't want to be added
