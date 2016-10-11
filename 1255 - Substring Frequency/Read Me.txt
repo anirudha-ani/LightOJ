@@ -1,0 +1,5 @@
+Problem Link - http://lightoj.com/volume_showproblem.php?problem=1255
+
+Algorithm Used - KMP / Knuth Morris Pratt Algorithm 
+
+Additional Note - Nothing . Straight forward problem
